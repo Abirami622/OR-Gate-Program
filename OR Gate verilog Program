@@ -1,4 +1,4 @@
-module org (A, B, Y); 
+module or_new(A, B, Y); 
 input A, B; 
 output Y; 
 assign Y = A | B; 
